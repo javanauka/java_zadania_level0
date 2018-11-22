@@ -2,8 +2,7 @@ package zadania_java_level0;
 
 import java.util.Scanner;
 
-/*
-* propozycje rozbudowy programu:
+/*todo
 * dac wybór co na co chce zamieniac
 * przerobic program na obiektowy*/
 
@@ -14,6 +13,7 @@ public class Zadanie1 {
         int degrees = 0;
         Scanner rd = new Scanner(System.in);
         degrees = rd.nextInt();
-        System.out.printf("podałeś %d stopni celcjusza do zamiany, wynik to %3.2f stopni farenheita", degrees, (9/5f * degrees) + 32);
-
+        rd.close();
+        System.out.printf("podałeś %d stopni celcjusza do zamiany, wynik to %3.2f stopni farenheita", degrees, (9 / 5f * degrees) + 32);
+    }
 }
