@@ -17,6 +17,7 @@ public class Zadanie2 {
         secondNumber = rd.nextInt();
         System.out.println("podaj trzecią liczbę całkowitą");
         thirdNumber = rd.nextInt();
+        rd.close();
         System.out.printf("wprowadziłeś %d %d %d \n",firstNumber,secondNumber,thirdNumber);
         min = firstNumber;
         max = firstNumber;
