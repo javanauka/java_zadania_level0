@@ -33,5 +33,6 @@ public class Zadanie4 {
 
         System.out.println("Do zapłacenia masz " + payTax );
 
+        rd.close();
     }
 }
