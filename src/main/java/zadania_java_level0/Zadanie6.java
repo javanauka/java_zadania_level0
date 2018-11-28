@@ -5,7 +5,6 @@ package zadania_java_level0;
 //przerobić na obiektowy, zrobić to na generykach, jak wykonac program bez switcha
 
 
-
 import java.util.Scanner;
 
 public class Zadanie6 {

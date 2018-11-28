@@ -3,8 +3,8 @@ package zadania_java_level0;
 import java.util.Scanner;
 
 /*todo
-* dac wybór co na co chce zamieniac
-* przerobic program na obiektowy*/
+ * dac wybór co na co chce zamieniac
+ * przerobic program na obiektowy*/
 
 public class Zadanie1 {
     public static void main(String[] args) {

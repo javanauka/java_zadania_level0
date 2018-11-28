@@ -14,7 +14,6 @@ public class Zadanie4 {
     static final float DOWN_AMOUNT = 556.02f;
 
 
-
     public static void main(String[] args) {
 
         float income = 0, payTax = 0;
@@ -25,13 +24,13 @@ public class Zadanie4 {
 
         System.out.println("Twój dochód wynosi: " + income);
 
-        if(income < LEVEL1 || income == LEVEL1) {
+        if (income < LEVEL1 || income == LEVEL1) {
             payTax = income * TAX1 - DOWN_AMOUNT;
-        }else if (income > LEVEL1) {
-            payTax = TAX2_BASE + (income - LEVEL1)*TAX2;
+        } else if (income > LEVEL1) {
+            payTax = TAX2_BASE + (income - LEVEL1) * TAX2;
         }
 
-        System.out.println("Do zapłacenia masz " + payTax );
+        System.out.println("Do zapłacenia masz " + payTax);
 
         rd.close();
     }

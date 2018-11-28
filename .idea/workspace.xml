@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e81779c5-acfe-4d39-8f58-216d74e132dd" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie6.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -13,6 +17,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/zadania_java_level0$Zadanie7.ic" NAME="Zadanie7 Coverage Results" MODIFIED="1543434963882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>zadania_java_level0.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
@@ -23,8 +32,8 @@
       <file leaf-file-name="Zadanie1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="265">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -32,17 +41,26 @@
       <file leaf-file-name="Zadanie4.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="135">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Zadanie6.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Zadanie6.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            <state relative-caret-position="695">
+              <caret line="57" column="13" selection-end-line="71" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Zadanie7.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -59,7 +77,7 @@
       <file leaf-file-name="Zadanie2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
+            <state relative-caret-position="112">
               <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
             </state>
           </provider>
@@ -68,8 +86,8 @@
       <file leaf-file-name="Zadanie3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+            <state relative-caret-position="112">
+              <caret line="13" column="33" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -83,6 +101,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>package zadania_java_level0\;\n\n\/\/all odd numbers smaller than given base\n\nimport java\.util\.Scanner\;\n\npublic class Zadanie7 \{\n\n\n    public static void main\(String\[\] args\) \{\n        System\.out\.println\(\&quot;podaj liczbę bazową\&quot;\)\;\n\n        Scanner rd \= new Scanner\(System\.in\)\;\n        int baseNumber \= rd\.nextInt\(\)\;\n\n        int counter \= 1\;\n\n        System\.out\.println\(\&quot;liczby nieparzyste mniejsze od bazowej to\:\&quot;\)\;\n\n        do \{\n            if \(counter \% 2 \!\= 0\) \{\n                System\.out\.print\(counter \+ \&quot;\, \&quot;\)\;\n\n        \} while \(counter \&lt;\= baseNumber\)\;\n        \}\n    \}\n\}\n</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -90,11 +113,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie4.java" />
         <option value="$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie6.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie7.java" />
       </list>
     </option>
   </component>
@@ -175,18 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Zadanie6">
-    <configuration name="Zadanie1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zadania_java_level0.Zadanie1" />
-      <module name="java_zadania_level0" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zadania_java_level0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.Zadanie7">
     <configuration name="Zadanie2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zadania_java_level0.Zadanie2" />
       <module name="java_zadania_level0" />
@@ -222,6 +235,17 @@
     </configuration>
     <configuration name="Zadanie6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zadania_java_level0.Zadanie6" />
+      <module name="java_zadania_level0" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadania_java_level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Zadanie7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadania_java_level0.Zadanie7" />
       <module name="java_zadania_level0" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -273,19 +297,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Zadanie1" />
       <item itemvalue="Application.Zadanie2" />
       <item itemvalue="Application.Zadanie3" />
       <item itemvalue="Application.Zadanie4" />
       <item itemvalue="Application.Zadanie6" />
+      <item itemvalue="Application.Zadanie7" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadanie7" />
         <item itemvalue="Application.Zadanie6" />
         <item itemvalue="Application.Zadanie4" />
         <item itemvalue="Application.Zadanie3" />
         <item itemvalue="Application.Zadanie2" />
-        <item itemvalue="Application.Zadanie1" />
       </list>
     </recent_temporary>
   </component>
@@ -315,27 +339,32 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32852563" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32852563" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.30128205" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26283988" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26283988" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.35901925" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39903846" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.35901925" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -441,45 +470,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="695">
+          <caret line="57" column="13" selection-end-line="71" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="135">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="13" column="33" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zadania_java_level0/Zadanie6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        <state relative-caret-position="295">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
