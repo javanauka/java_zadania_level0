@@ -2,7 +2,7 @@ package zadania_java_level0;
 
 //show power of two, below given number
 //todo
-//besides object-abling it, nothing :/
+//besides objet-abling it, nothing :/
 
 import java.util.Scanner;
 

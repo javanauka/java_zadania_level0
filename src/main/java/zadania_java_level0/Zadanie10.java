@@ -1,8 +1,6 @@
 package zadania_java_level0;
 
 //add given numbers until user will press 0
-//todo
-//count how many digits was given, object-abling it, nothing :/
 
 import java.util.Scanner;
 
