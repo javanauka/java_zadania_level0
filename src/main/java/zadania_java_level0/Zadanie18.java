@@ -14,7 +14,6 @@ public class Zadanie18 {
         System.out.println("program tworzy macierz 20 wartości z zakresu 1 -> 10 i zlicza ich wystąpienia");
 
         int[] baseArray = new int[BASE_ARRAY_LENGTH];
-        int[] countingArray = new int[COUTING_ARRAY_LENGTH];
 
         Random generate = new Random();
 
@@ -27,21 +26,19 @@ public class Zadanie18 {
             System.out.print(baseArray[i] + " ");
         }
 
-        for (int i = 0; i < COUTING_ARRAY_LENGTH; i++) {
-            countingArray[i] = i + RANDOM_RANGE_MOVE;  //i need values from 1 - 10
-        }
+        System.out.println("\nwygenerowana została macierz zliczająca");
 
-        System.out.println("wygenerowana została macierz zliczająca");
+        int[] countingArray = new int[COUTING_ARRAY_LENGTH];  //it has to be empty :)
+
         for (int i = 0; i < COUTING_ARRAY_LENGTH; i++) {
             System.out.print(countingArray[i] + " ");
         }
         System.out.println();
 
-        for (int i = 0; i < BASE_ARRAY_LENGTH; i++) {
-            countingArray[baseArray[i]-1] += 1;
-//            System.out.print(baseArray[i] + " ");
+        for (int i = 0; i < BASE_ARRAY_LENGTH; i++) {  //starts counting occurrences of numbers in base array
+            countingArray[baseArray[i]-1] += 1;     //under index 0 in C_A is 1, so 10 from B_A should be counted under 9 in C_A
         }
-//
+
         System.out.println("w macierzy podtawowej było:");
         for (int i = 0; i < COUTING_ARRAY_LENGTH; i++) {
             System.out.print((i + 1) + " " + countingArray[i] + " razy, ");
