@@ -46,6 +46,7 @@ public static boolean IsAPrimeNumber(int arrayIndex) {
     return false;
 }
 //wprowadzenie zman w zadaniu
+//a to dodałem po pullu
 public static int[] FindDividers(int numberToClculate) {
         
 }
