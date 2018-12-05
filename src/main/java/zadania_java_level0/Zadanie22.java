@@ -51,4 +51,4 @@ public static int[] FindDividers(int numberToClculate) {
 }
 }
 
-co sie stanie jak tu cos wpisze i bede pullowac
+//co sie stanie jak tu cos wpisze i bede pullowac
